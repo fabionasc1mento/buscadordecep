@@ -1,0 +1,9 @@
+{
+  "short_name": "Buscador de CEP",
+  "name": "Buscador de CEP",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2340c7",
+  "background_color": "#2340c7"
+}
